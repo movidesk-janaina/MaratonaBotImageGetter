@@ -1,0 +1,45 @@
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Bot Application.dll.config
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Bot Application.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Bot Application.pdb
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Autofac.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Chronic.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.Bot.Builder.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.Bot.Connector.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Newtonsoft.Json.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Net.Http.Extensions.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Net.Http.Formatting.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Net.Http.Primitives.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Web.Http.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Web.Http.WebHost.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Autofac.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.Bot.Builder.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.Bot.Connector.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\Newtonsoft.Json.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Net.Http.Extensions.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Net.Http.Formatting.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Net.Http.Primitives.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Web.Http.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\System.Web.Http.WebHost.xml
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\obj\Release\MaratonaBotImageGetter.csproj.App.config
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\obj\Release\MaratonaBotImageGetter.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\obj\Release\Bot Application.dll
+C:\Users\OEM\source\repos\MaratonaBotImageGetter\MaratonaBotImageGetter\obj\Release\Bot Application.pdb
